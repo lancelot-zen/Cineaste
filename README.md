@@ -23,6 +23,6 @@ Proposed Features :
 10. Filter movies by genre
 11. Notifications for new chats or new movies
 
-More features to be added in future.
+More features coming soon.
 
 TECH STACK:JavaScript, React, Flask, Tailwind-CSS.
