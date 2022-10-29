@@ -21,8 +21,9 @@ Proposed Features :
 8. Show some lists like highest rated, recently released, currently popular, etc, which regularly update
 9. Recommend new movies based on watched movies
 10. Filter movies by genre
-11. Notifications for new chats or new movies
+11. Notifications for new chats or new movies and shows.
 
 More features coming soon.
+
 
 TECH STACK:JavaScript, React, Flask, Tailwind-CSS.
