@@ -28,6 +28,9 @@ More features coming soon.
 
 TECH STACK:JavaScript, React, StreamLit, Tailwind-CSS.
 
+The Code for the recommender system:
+https://drive.google.com/drive/folders/1YLrAZ9MLboFWfj-wwxUveI3XTqxHnvlO?usp=share_link
+
 
 Run Recommender system on PORT 3004
 streamlit run app.py --server.port 3004
