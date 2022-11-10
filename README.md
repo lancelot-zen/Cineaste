@@ -25,4 +25,4 @@ Proposed Features :
 
 More features coming soon.
 
-TECH STACK:JavaScript, React, Flask, Tailwind-CSS.
+TECH STACK:JavaScript, React, Streamlit, Tailwind-CSS.
