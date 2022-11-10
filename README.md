@@ -26,4 +26,8 @@ Proposed Features :
 More features coming soon.
 
 
-TECH STACK:JavaScript, React, Flask, Tailwind-CSS.
+TECH STACK:JavaScript, React, StreamLit, Tailwind-CSS.
+
+
+Run Recommender system on PORT 3004
+# streamlit run app.py --server.port 3004
